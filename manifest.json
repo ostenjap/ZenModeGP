@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Grokipedia Cleaner",
+    "name": "Zen Mode Grokipedia",
     "icons": {
         "16": "zen16.png",
         "48": "zen48.png",
